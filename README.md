@@ -34,5 +34,3 @@ I'm a **Full Stack Developer** with expertise in **Node.js, PostgreSQL**, and mo
 ](mailto:mahmoudelmaandi94@gmail.com
 )
 ---
-
-💡 *Always open to collaborating on innovative projects. Let’s build something amazing!* 🚀
