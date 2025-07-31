@@ -29,7 +29,7 @@ I'm a **Full Stack Developer** with expertise in **Node.js, PostgreSQL**, and mo
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/mahmoudElmaandi](#)
+- **LinkedIn:** [https://www.linkedin.com/in/mahmoud-elmaandi](#)
 - **Email:** [mahmoudelmaandi94@gmail.com
 ](mailto:mahmoudelmaandi94@gmail.com
 )
