@@ -28,9 +28,8 @@ I'm a **Full Stack Developer** with expertise in **Node.js, PostgreSQL**, and mo
 ---
 
 ### 📫 Connect With Me
-
+- **Portfolio:** [mahmoudelmaandi.dev](https://www.mahmoudelmaandi.dev)
 - **LinkedIn:** [MahmoudELmaandi](https://www.linkedin.com/in/mahmoud-elmaandi)
-- **Email:** [mahmoudelmaandi94@gmail.com
-](mailto:mahmoudelmaandi94@gmail.com
-)
+- **Email (Gmail):** [mahmoudelmaandi94@gmail.com](mailto:mahmoudelmaandi94@gmail.com)
+- **Email (Domain):** [contact@mahmoudelmaandi.dev](mailto:contact@mahmoudelmaandi.dev)
 ---
