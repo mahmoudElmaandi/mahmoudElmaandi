@@ -6,8 +6,8 @@ I'm a **Full Stack Developer** with expertise in **Node.js, PostgreSQL**, and mo
 
 ### 🔧 Tech Stack
 
-- **Backend:** Node.js, Express, PostgreSQL, MongoDB, .NET (beginner)
-- **Frontend:** Angular (basic), TypeScript, HTML, CSS
+- **Backend:** Node.js, Express, PostgreSQL, MongoDB, .NET
+- **Frontend:** Angular, TypeScript, HTML, CSS
 - **DevOps & Tools:** Docker, Webpack, Nginx, CI/CD, SSL Certificates
 - **Other:** Web Scraping, Chrome Extensions, AI-based Data Analysis, System Performance Optimization
 
